@@ -6,7 +6,7 @@ Hello there, this is the assignment below. Clone this github repository and cont
 
 After cloning the github repository, make sure to convert all bash.sh files to executables
 
-![CHMOD Requirements](images/initializing.jpg)
+![CHMOD Requirements](images/initializing.png)
 
 <h2> Outputs </h2>
 
