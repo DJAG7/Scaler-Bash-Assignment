@@ -12,14 +12,14 @@ After cloning the github repository, make sure to convert all bash.sh files to e
 
 <h3> Question1: Log File Analysis </h3>
 
-![Extract and Count File Types](images/question1.jpg)
+![Extract and Count File Types](images/question1.png)
 
 <h3> Question2: Extract and Count File Types </h3>
 
-![Extract and Count File Types](images/question2.jpg)
+![Extract and Count File Types](images/question2.png)
 
 <h3> Question3: Check Service Status </h3>
 
-![Check Service Status](images/question3.jpg)
+![Check Service Status](images/question3.png)
 
 Thank you!
